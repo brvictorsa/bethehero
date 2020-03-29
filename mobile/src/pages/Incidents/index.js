@@ -68,7 +68,7 @@ export default function Incidents() {
         renderItem={({ item: incident, index }) => (
           <View style={styles.incident}>   
             <View style={styles.incidentBadge}>
-              <Text style={styles.incidentBadgeNumber}>{index+1}</Text>
+              <Text style={styles.incidentBadgeNumber}>caso {index+1}</Text>
             </View>     
             <Text style={styles.incidentProperty}>ONG:</Text>
             <Text style={styles.incidentValue}>{incident.name}</Text>
