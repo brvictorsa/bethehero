@@ -13,7 +13,7 @@ Uma biblioteca interativa para criar interfaces com o usuário.
 
 ![Login](https://github.com/brvictorsa/bethehero/blob/master/frontend/src/assets/wallpapers/frontend_login.png)
 
-![Registro de ONG](https://github.com/brvictorsa/bethehero/blob/master/frontend/src/assets/wallpapers/frontend_login.png)
+![Registro de ONG](https://github.com/brvictorsa/bethehero/blob/master/frontend/src/assets/wallpapers/frontend_register.png)
 
 ### Mobile
 
