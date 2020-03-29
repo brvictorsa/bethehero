@@ -1,8 +1,3 @@
-# bethehero
-Semana Omnistack 11
-
-Aplicação desenvolvida durante a semana oministack 11 da Rocketseat
-
 # 11ª Semana Omnistack Rocketseat
 Semana focada em desenvolver um aplicação Web, do back ao front-end e com mobile utilizando a stack JavaScrip.
 
@@ -15,6 +10,8 @@ Semana focada em desenvolver um aplicação Web, do back ao front-end e com mobi
 
  - [React](https://pt-br.reactjs.org/ "React")
 Uma biblioteca interativa para criar interfaces com o usuário.
+
+![Frontend](https://github.com/brvictorsa/bethehero/blob/master/frontend/src/assets/wallpapers/frontend_login.png=765x516)
 
 ### Mobile
 
