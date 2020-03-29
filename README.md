@@ -23,9 +23,9 @@ Com o lema: "Learn once, write anywhere", utiliza os mesmos conceitos do React p
 - [Expo](https://expo.io/)
 É um framework e uma plataforma universal para aplicação React, definindo ferramentas construídas em React Native e plataformas nativas que ajudam o desenvolvedor a construír, lançar e interagir rapidamente no iOS e Android a partir do mesmo código JavaScript/TypeScript. 
 
-![Splash](https://github.com/brvictorsa/bethehero/blob/master/frontend/src/assets/wallpapers/mobile_splash.png) 
-![Lista de casos](https://github.com/brvictorsa/bethehero/blob/master/frontend/src/assets/wallpapers/mobile_cases.png) 
-![Detalhes](https://github.com/brvictorsa/bethehero/blob/master/frontend/src/assets/wallpapers/mobile_details.png)
+![Splash](https://github.com/brvictorsa/bethehero/blob/master/frontend/src/assets/wallpapers/mobile_splash.jpg) 
+![Lista de casos](https://github.com/brvictorsa/bethehero/blob/master/frontend/src/assets/wallpapers/mobile_cases.jpg) 
+![Detalhes](https://github.com/brvictorsa/bethehero/blob/master/frontend/src/assets/wallpapers/mobile_details.jpg)
 
 ### Back-End
 
