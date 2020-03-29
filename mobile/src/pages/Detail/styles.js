@@ -18,6 +18,15 @@ export default StyleSheet.create({
     backgroundColor: '#FFF',
     marginBottom: 16,
     marginTop: 48,
+
+    shadowColor: "#000",
+    shadowOffset: {
+      width: 0,
+      height: 2,
+    },
+    shadowOpacity: 0.25,
+    shadowRadius: 3.84,
+    elevation: 5,
   },
   incidentProperty: {
     fontSize: 14,
@@ -35,6 +44,15 @@ export default StyleSheet.create({
     borderRadius: 8,
     backgroundColor: '#FFF',
     marginBottom: 16,
+
+    shadowColor: '#000',
+    shadowOffset: {
+      width: 0,
+      height: 2,
+    },
+    shadowOpacity: 0.25,
+    shadowRadius: 3.84,
+    elevation: 5,
   },
   heroTitle: {
     fontWeight: 'bold',
