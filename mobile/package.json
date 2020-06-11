@@ -17,7 +17,7 @@
     "expo-mail-composer": "~8.1.0",
     "intl": "^1.2.5",
     "logkitty": "0.7.1",
-    "react": "16.11.0",
+    "react": "16.13.1",
     "react-dom": "~16.13.1",
     "react-native": "0.62.2",
     "react-native-gesture-handler": "~1.6.1",
