@@ -16,15 +16,18 @@ export default function Logon() {
 
   async function handleLogin(e) {
     e.preventDefault();
+    const idToSend = id.trim();
 
-    try {
-      const response = await api.post('sessions', { id });
-
-      localStorage.setItem('ongId', id);
-      localStorage.setItem('ongName', response.data.name);
-      history.push('/profile');
-    } catch (error) {
-      alert('Falha no login, tente novamente.');
+    if(idToSend.length > 0) {
+      try {
+        const response = await api.post('sessions', { idToSend });
+  
+        localStorage.setItem('ongId', id);
+        localStorage.setItem('ongName', response.data.name);
+        history.push('/profile');
+      } catch (error) {
+        alert('Falha no login, tente novamente.');
+      }
     }
   } 
 
@@ -42,7 +45,7 @@ export default function Logon() {
           />
           <button className="button" type="submit">Entrar</button>
           
-          <Link className="back-link" to="/register">
+          <Link className="back-link" to="/register" >
             <FiLogIn size={16} color="#E02041" />  
             Não tenho cadastro
           </Link>
